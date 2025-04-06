@@ -1,0 +1,16 @@
+Position: Data Analyst
+
+We are looking for a highly motivated Data Analyst to join our analytics team. The ideal candidate will have strong skills in Python, SQL, Excel, and data visualization tools like Tableau or PowerBI.
+
+Responsibilities:
+- Analyze large datasets to generate actionable insights
+- Build dashboards and reports
+- Work closely with product and business teams
+- Communicate findings clearly to stakeholders
+
+Requirements:
+- Bachelor’s degree in Computer Science, Data Science, or related field
+- 2+ years of experience in data analysis
+- Proficiency in Python and SQL
+- Experience with Excel and data visualization tools like PowerBI or Tableau
+- Strong analytical and problem-solving skills
