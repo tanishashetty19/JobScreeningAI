@@ -47,13 +47,13 @@ JobScreeningAI/ ├── app.py # Streamlit UI ├── config.py # Global con
 # App Screenshots
 
 ## Home Screen
-![Home Screen](screenshots/Homescreen.jpeg)
+![Home Screen](Screenshots/Homescreen.jpeg)
 
 ## Camera Screen
-![Camera Screen](screenshots/Capture_image.jpeg)
+![Camera Screen](Screenshots/Capture_image.jpeg)
 
 ## Selecting the issue
-![Issue type](screenshots/Issuetype.jpeg)
+![Issue type](Screenshots/Issuetype.jpeg)
 
 ## Status Screen
-![Status Screen](screenshots/track_status.jpeg)
+![Status Screen](Screenshots/track_status.jpeg)
