@@ -44,16 +44,4 @@ JobScreeningAI/ ├── app.py # Streamlit UI ├── config.py # Global con
    python -m venv venv
    venv\Scripts\activate  # For Windows
 
-# App Screenshots
 
-## Home Screen
-![Home Screen](Screenshots/Homescreen.jpeg)
-
-## Camera Screen
-![Camera Screen](Screenshots/Capture_image.jpeg)
-
-## Selecting the issue
-![Issue type](Screenshots/Issuetype.jpeg)
-
-## Status Screen
-![Status Screen](Screenshots/track_status.jpeg)
